@@ -173,7 +173,7 @@ import {
     {
       name: "3D Portfolio",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A 3D portfolio that is an interactive and visually dynamic showcase, built with React, Three.js, and Tailwind CSS, blending modern design with immersive 3D experiences.",
       tags: [
         {
           name: "react",
@@ -189,7 +189,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Abdalla2024/Portfolio",
     },
     {
       name: "nVolve",
@@ -213,20 +213,20 @@ import {
       source_code_link: "https://github.com/Abdalla2024/nVolve",
     },
     {
-      name: "Trip Guide",
+      name: "Movie Recommender",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
         {
-          name: "nextjs",
+          name: "html",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "java",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "mysql",
           color: "pink-text-gradient",
         },
       ],
