@@ -28,7 +28,7 @@ import tesla from "./company/tesla.png";
 
 import portfolio from "./portfolio.png";
 import nvolve from "./nvolve.png";
-import tripguide from "./tripguide.png";
+import filmfocus from "./filmfocus.png";
 
 export {
   logo,
@@ -57,6 +57,6 @@ export {
   tesla,
   portfolio,
   nvolve,
-  tripguide,
+  filmfocus,
   leetcode
 };

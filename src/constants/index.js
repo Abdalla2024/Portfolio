@@ -19,7 +19,7 @@ import {
     tu,
     portfolio,
     nvolve,
-    tripguide,
+    filmfocus,
     threejs,
   } from "../assets";
   
@@ -213,9 +213,9 @@ import {
       source_code_link: "https://github.com/Abdalla2024/nVolve",
     },
     {
-      name: "Movie Recommender",
+      name: "Film Focus",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Film Focus is a web application that allows users to create an account, rate movies that they have watched, save movies for later, and see movies recommended to them by AI based on what they like.",
       tags: [
         {
           name: "html",
@@ -230,8 +230,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: filmfocus,
+      source_code_link: "https://github.com/Abdalla2024/Movie_Recommender",
     },
   ];
   
